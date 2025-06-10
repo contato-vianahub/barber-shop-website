@@ -1,7 +1,7 @@
 "use client"
 
-import HeroSection from "../src/components/hero-section"
+import GalleryImage from "../src/components/gallery-image"
 
 export default function SyntheticV0PageForDeployment() {
-  return <HeroSection />
+  return <GalleryImage />
 }
