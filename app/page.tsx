@@ -1,7 +1,7 @@
 "use client"
 
-import GalleryImage from "../src/components/gallery-image"
+import PriceTable from "../src/components/price-table"
 
 export default function SyntheticV0PageForDeployment() {
-  return <GalleryImage />
+  return <PriceTable />
 }
