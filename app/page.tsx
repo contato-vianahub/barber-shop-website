@@ -1,7 +1,7 @@
 "use client"
 
-import PriceTable from "../src/components/price-table"
+import BarberShop from "../barber-shop"
 
-export default function SyntheticV0PageForDeployment() {
-  return <PriceTable />
+export default function Page() {
+  return <BarberShop />
 }
